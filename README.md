@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-Repository containing portfolio of my data science projects. Presented in the form of Jupyter Notebooks.
+Repository containing a portfolio of my data science projects. Presented in the form of Jupyter Notebooks.
 
 ## Contents
 
